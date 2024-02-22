@@ -7,8 +7,8 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: VEX
+    url: https://753945ab-5d90-44c9-b17e-28e6a70b2ed3-00-3h52wciqi4sgf.janeway.replit.dev/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
